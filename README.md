@@ -1,2 +1,2 @@
 # notekeeper
-Single html file note keeping app
+This is notebook application. One file project. Made with Claude AI.
